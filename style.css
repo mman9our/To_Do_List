@@ -1,0 +1,118 @@
+body
+{
+    background-color: rgba(247, 248, 252, 1);
+    font-family: 'Tajawal', sans-serif;
+}
+
+.center-div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-div
+{
+    direction: rtl;
+    position: relative;
+
+}
+.tasks-table
+{
+    background-color:white;
+    width: 60%;
+    margin-top: 130px;
+    z-index: 5;
+}
+
+#header
+{
+    background-color: rgba(116, 209, 202, 0.8);
+    width: 100%;
+    color: black;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+.task-info
+{
+    width: 70%;
+}
+
+h1{
+    display: inline;
+}
+button
+{
+    float: right;
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    box-shadow: 0px 3px 5px rgba(168, 168, 168, 0.38);
+    cursor: pointer;
+}
+
+.circular
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.btn-delete
+{
+    background-color: rgb(244, 69, 69);
+}
+
+.btn-insert
+{
+    background-color: rgb(154, 243, 185);
+}
+
+.btn-edit
+{
+    background-color: #7cd1f9;
+}
+
+.task-actions
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+}
+
+.task
+{
+    display: flex;
+    background-color: rgba(203, 213, 225,0.3);
+    border-bottom: solid black 1px;
+    border-radius: 2.5px;
+
+}
+
+.task:hover 
+{
+    box-shadow: 0px 3px 15px rgba(42, 44, 56,0.6);
+}
+
+.tasks
+{
+    padding: 20px;
+}
+
+.background-image
+{
+    position: absolute;
+    z-index: 0;
+    top: 300px;
+    margin-right: 1400px;
+}
+
+img 
+{
+    width: 850px;
+    filter: blur(1px);
+
+}
