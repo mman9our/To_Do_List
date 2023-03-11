@@ -8,6 +8,6 @@ simple to do list web using HTML, CSS and JavaScript.
 
 | Color  | ColorValue  | RGBA    |
 | :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| Ghost White | rgba(247, 248, 252, 1)   | #FCFBF7   |
 
 
