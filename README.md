@@ -4,10 +4,6 @@ simple to do list web using HTML, CSS and JavaScript.
 
 
 
-| Color  | Color Value | | RGBA |
-| --- | ----------- |
-| Ghost White | rgba(247, 248, 252, 1) | |  |
-
 
 
 | Attempt | #1    | #2    |
