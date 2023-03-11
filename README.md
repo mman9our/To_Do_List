@@ -2,11 +2,15 @@
 
 simple to do list web using HTML, CSS and JavaScript.
 
-
 ## Colors
+| Color  | Color Value | | RGBA |
+| --- | ----------- |
+| Ghost White | rgba(247, 248, 252, 1) | | - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) |
 
-| Color | Color Value   | RGBA   |
+
+
+| Attempt | #1    | #2    |
 | :---:   | :---: | :---: |
-| Ghost White | rgba(247, 248, 252, 1)   | #f7f8fc   |
+| Seconds | 301   | 283   |
 
 
