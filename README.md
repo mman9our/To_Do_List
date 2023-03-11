@@ -2,15 +2,11 @@
 
 simple to do list web using HTML, CSS and JavaScript.
 
+
 ## Colors
-| Color  | Color Value | | RGBA |
-| --- | ----------- |
-| Ghost White | rgba(247, 248, 252, 1) | | #f7f8fc |
 
-
-
-| Attempt | #1    | #2    |
+| Color | Color Value   | RGBA   |
 | :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| Ghost White | rgba(247, 248, 252, 1)   | #f7f8fc   |
 
 
