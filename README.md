@@ -8,3 +8,9 @@ simple to do list web using HTML, CSS and JavaScript.
 | Ghost White | rgba(247, 248, 252, 1) | | #f7f8fc |
 
 
+
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
+
