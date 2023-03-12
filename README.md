@@ -1,6 +1,6 @@
 # TO DO LIST Example
 
-simple to do list web using HTML, CSS and JavaScript.
+Simple to do list web using HTML, CSS and JavaScript.
 
 
 ---
