@@ -21,3 +21,5 @@ simple to do list web using HTML, CSS and JavaScript.
 - ![#FCFBF7](https://placehold.co/15x15/f03c15/f03c15.png) `#FCFBF7`
 `#ffffff`
 
+<span style="color:blue">some *blue* text</span>.
+
