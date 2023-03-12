@@ -18,4 +18,6 @@ simple to do list web using HTML, CSS and JavaScript.
 | Pearl Aqua |   #74D1CACC |  rgba(116, 209, 202, 0.8)  |
 | Dark Gray |   #A8A8A861 |  rgba(168, 168, 168, 0.38) |
 
+- ![#FCFBF7](https://placehold.co/15x15/f03c15/f03c15.png) `#FCFBF7`
+
 
