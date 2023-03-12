@@ -1,11 +1,11 @@
-# TODO List Example
+# TO DO LIST Example
 
 simple to do list web using HTML, CSS and JavaScript.
 
 
+---
 
-
-
+![Screenshot 2023-03-12 185620](https://user-images.githubusercontent.com/72463762/224556504-f0c5f758-f2e1-4cf7-b33d-7adad67b6df0.png)
 
 
 
