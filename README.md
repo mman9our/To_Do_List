@@ -1,4 +1,4 @@
-# TO DO LIST Example
+# TO DO LIST 
 
 Simple to do list web using HTML, CSS and JavaScript.
 
