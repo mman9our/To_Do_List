@@ -19,5 +19,5 @@ simple to do list web using HTML, CSS and JavaScript.
 | Dark Gray |   #A8A8A861 |  rgba(168, 168, 168, 0.38) |
 
 - ![#FCFBF7](https://placehold.co/15x15/f03c15/f03c15.png) `#FCFBF7`
-
+`#ffffff`
 
