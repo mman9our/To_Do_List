@@ -36,6 +36,7 @@ padding-top: 8px;
 padding-bottom: 8px;
 
 }
+
 .task-info
 {
 width: 70%;
@@ -60,8 +61,8 @@ button.circular
 width: 40px;
 height: 40px;
 border-radius: 50%;
-line-height: 0;
 cursor: pointer;
+line-height: 1px;
 }
 
 .btn-delete
@@ -74,6 +75,18 @@ color: black;
 {
 background-color: rgb(154, 243, 185);
 color: black;
+}
+
+.btn-done
+{
+    background-color: rgb(244, 69, 69);
+    color: black;
+}
+
+.btn-done
+{
+    background-color: rgb(244, 69, 69);
+    color: black;
 }
 
 .btn-edit
@@ -97,8 +110,15 @@ background-color: rgba(203, 213, 225,0.3);
 border-bottom: solid black 1px;
 border-radius: 2.5px;
 margin-bottom: 15px;
-
 }
+.done {
+    display: flex;
+    background-color: rgb(154, 243, 185);
+    border-bottom: solid black 1px;
+    border-radius: 2.5px;
+    margin-bottom: 15px;
+}
+
 
 .task:hover 
 {
