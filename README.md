@@ -9,6 +9,10 @@ Simple to do list web using HTML, CSS and JavaScript.
 
 ![Screenshot 2023-03-19 000600](https://user-images.githubusercontent.com/72463762/226142742-d0ad9ae4-49d5-4224-865f-913e13b6c83d.png)
 
+
+الميزات الرئيسية لنظام إدارة المهام
+01. إدارة أنشطة المشاريع من مكان مركزي
+
 ## Assets Link
 https://www.mediafire.com/file/uwheqvefty4pzgm/assets.rar/file
 
