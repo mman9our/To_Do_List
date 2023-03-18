@@ -12,6 +12,11 @@ Simple to do list web using HTML, CSS and JavaScript.
 
 الميزات الرئيسية لنظام إدارة المهام
 01. إدارة أنشطة المشاريع من مكان مركزي
+02. عرض المهام وإدارتها
+03. (قريبا) تنشيط المؤقّت للمهام
+04. (قريبا)تحليل تقارير المهام
+05. تحديث المهام مرةً واحدة
+06. إعداد تذكيرات المهام ومدتها
 
 ## Assets Link
 https://www.mediafire.com/file/uwheqvefty4pzgm/assets.rar/file
